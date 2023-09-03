@@ -475,6 +475,12 @@ section .container {
   background-color: #1c7d32;
 }
 
+#skills img {
+    height: 5rem;
+    margin: 1px;
+    padding: 2px;
+}
+
 /*--------------------------------------------------------------
 # Interests
 --------------------------------------------------------------*/
